@@ -9,15 +9,15 @@ image:
 
 Ano novo, portal novo, projetos novos, e casa nova!
 
-Assim como buscamos a cada dia, trazer novas tecnologias para nossos clientes e projetos, precisamos de uma imagem pessoal que seja altamente compatível com o trabalho que desenvolvemos; e para ilustrar nosso trabalho e capacidade, nada melhor que nosso portal.
+Assim como busco a cada dia, trazer novas tecnologias para meus clientes e projetos, preciso de uma imagem pessoal que seja altamente compatível com o trabalho que desenvolvo; e para ilustrar este trabalho e capacidade, nada melhor que meu portal.
 <!-- more -->
-Focando este objetivo de evolução, a primeira coisa a ser feita foi mudar a estrutura de todos nossos servidores, afim de utilizar algumas tecnologias mais atuais. E como aqui somos apaixonados pela linguagem Ruby, acabamos saindo do Wordpress e do Blogspot (onde mantinhamos dois blogs de comunicação), e entramos de cabeça no Jekyll, por ser mais flexível para todas as idéias malucas que estamos aos poucos dando vida.
+Focando este objetivo de evolução, a primeira coisa a ser feita foi mudar a estrutura de todos os servidores, afim de utilizar algumas tecnologias mais atuais. E como sou um amante da linguagem Ruby, sai do Wordpress e do Blogspot (onde eu mantinha dois blogs de comunicação), e entrei de cabeça no Jekyll, por ser mais flexível para todas as idéias malucas que estou aos poucos dando vida.
 
-Seguindo esta linha, ainda este semestre 3 grandes aplicativos da Sou Criador estaram disponíveis para duas das principais plataformas de dispositivos móveis, mas é tudo que podemos adiantar por hora.
+Seguindo esta linha, ainda este semestre 3 grandes aplicativos da Sou Criador estarão disponíveis para duas das principais plataformas de dispositivos móveis, mas é tudo que posso adiantar por hora.
 
-Outra novidade é que explicaremos um pouco mais sobre o desenvolvimento de alguns de nossos projetos, e tembém começaremos a disponibilizar a tradução dos tutoriais preferidos da equipe.
+Outra novidade é que explicarei um pouco mais sobre o desenvolvimento de alguns dos projetos, e tembém começarei a disponibilizar a tradução dos meus tutoriais preferidos.
 
-Um grande abraço, e aguardamos seu retorno constante para conferir nossas novidades.
+Um grande abraço, e aguardo seu retorno constante para conferir essas e outras novidades.
 
 <!-- Jekyll also offers powerful support for code snippets:
 
