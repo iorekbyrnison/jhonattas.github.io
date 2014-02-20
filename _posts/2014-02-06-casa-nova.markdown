@@ -6,7 +6,7 @@ categories: news
 image:
   feature: abstract-1.jpg
 ---
-
+<img src="images/template-novo-ipad.png">
 Ano novo, portal novo, projetos novos, e casa nova!
 
 Assim como busco a cada dia, trazer novas tecnologias para meus clientes e projetos, preciso de uma imagem pessoal que seja altamente compatível com o trabalho que desenvolvo; e para ilustrar este trabalho e capacidade, nada melhor que meu portal.
