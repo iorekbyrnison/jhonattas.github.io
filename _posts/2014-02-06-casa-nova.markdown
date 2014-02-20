@@ -6,7 +6,6 @@ categories: news
 image:
   feature: abstract-1.jpg
 ---
-<img src="images/template-novo-ipad.png">
 Ano novo, portal novo, projetos novos, e casa nova!
 
 Assim como busco a cada dia, trazer novas tecnologias para meus clientes e projetos, preciso de uma imagem pessoal que seja altamente compatível com o trabalho que desenvolvo; e para ilustrar este trabalho e capacidade, nada melhor que meu portal.
@@ -18,7 +17,7 @@ Seguindo esta linha, ainda este semestre 3 grandes aplicativos da Sou Criador es
 Outra novidade é que explicarei um pouco mais sobre o desenvolvimento de alguns dos projetos, e tembém começarei a disponibilizar a tradução dos meus tutoriais preferidos.
 
 Um grande abraço, e aguardo seu retorno constante para conferir essas e outras novidades.
-
+<img src="images/template-novo-ipad.png">
 <!-- Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
