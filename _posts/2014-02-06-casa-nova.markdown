@@ -5,6 +5,9 @@ date:   2014-02-06 00:01:13
 categories: news
 image:
   feature: abstract-1.jpg
+tags: [news]
+comments: true
+share: true
 ---
 Ano novo, portal novo, projetos novos, e casa nova!
 
@@ -16,5 +19,6 @@ Seguindo esta linha, ainda este semestre 3 grandes aplicativos da Sou Criador es
 
 Outra novidade é que explicarei um pouco mais sobre o desenvolvimento de alguns dos projetos, e tembém começarei a disponibilizar a tradução dos meus tutoriais preferidos.
 
+![Visual novo e responsivo!]({{ site.url }}/assets/images/template-novo-ipad.png).
+
 Um grande abraço, e aguardo seu retorno constante para conferir essas e outras novidades.
-![Visual novo e responsivo!]({{ site.url }}/assets/images/template-novo-ipad.png)
