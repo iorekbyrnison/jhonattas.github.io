@@ -12,7 +12,7 @@ Um exemplo de JSON.
 
 A seguir temos o exemplo de JSON que será parseado neste tutorial. É um JSON muito simples que nos da uma lista de contatos, e que contem informações como: email, endereco, genero, e numeros de telefone.
 
-Você pode obter este JSON acessando o link: [http://api.soucriador.com.br/contacts/] 
+Você pode obter este JSON acessando o link: [http://api.androidhive.info/contacts/] 
 
 {% highlight json %}
 {
