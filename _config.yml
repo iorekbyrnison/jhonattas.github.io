@@ -4,14 +4,13 @@ disqus_shortname: soucriador
 #Your site's domain goes here. Leave localhost server or blank when working locally.
 #url:              http://localhost:4000
 url:              http://jhonattas.github.io
-#url:               http://site.soucriador.com.br
 
 # Owner/author information
 owner:
   name:           Jhonattas
   avatar:         avatar.jpg
-  bio:            "Um desenvolvedor curioso, apaixonado por design, e faminto por coisas novas."
-  email:          jhonattas@soucriador.com.br
+  bio:            "An Android developer who loves beautiful things."
+  email:          jhonattas@soucriador.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        jhoouh
   facebook:       jhoouh
