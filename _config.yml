@@ -9,19 +9,19 @@ url:              http://jhonattas.github.io
 owner:
   name:           Jhonattas
   avatar:         avatar.jpg
-  bio:            "An Android developer who loves beautiful things."
+  bio:            "A developer who loves beautiful things."
   email:          jhonattas@soucriador.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        jhoouh
-  facebook:       jhoouh
-  github:         jhonattas
+  #facebook:       jhoouh
+  #github:         jhonattas
   stackexchange:  
-  linkedin:       jhonattas
-  instagram:      
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
   google_plus:   https://plus.google.com/+JhonattasGonçalves/
+  linkedin:       jhonattas
+  instagram:      jhoouh
+  twitter:        jhoouh
 
 # Background image to be tiled on all pages
 background: ps_neutral.png
